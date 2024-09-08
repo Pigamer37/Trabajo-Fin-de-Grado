@@ -1,0 +1,10 @@
+/root/ros2_ws/src/my_package/build/my_package/CMakeFiles/uninstall.dir
+/root/ros2_ws/src/my_package/build/my_package/CMakeFiles/my_package_uninstall.dir
+/root/ros2_ws/src/my_package/build/my_package/CMakeFiles/my_node.dir
+/root/ros2_ws/src/my_package/build/my_package/CMakeFiles/test.dir
+/root/ros2_ws/src/my_package/build/my_package/CMakeFiles/edit_cache.dir
+/root/ros2_ws/src/my_package/build/my_package/CMakeFiles/rebuild_cache.dir
+/root/ros2_ws/src/my_package/build/my_package/CMakeFiles/list_install_components.dir
+/root/ros2_ws/src/my_package/build/my_package/CMakeFiles/install.dir
+/root/ros2_ws/src/my_package/build/my_package/CMakeFiles/install/local.dir
+/root/ros2_ws/src/my_package/build/my_package/CMakeFiles/install/strip.dir
