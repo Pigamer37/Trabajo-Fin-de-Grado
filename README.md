@@ -1,4 +1,11 @@
 # Parte de LGV, sistema de Visión Artificial (CV):
+## Citación IEEE:
+L. Gómez, "*NAVEGACIÓN BASADA EN SEGUIMIENTO DE LÍNEAS MEDIANTE VISIÓN ARTIFICIAL PARA EL ROBOT ROBOGAIT SPORT*", Madrid, España, Sep. 2024. Available: [https://oa.upm.es/84445/](https://oa.upm.es/84445/) or [https://kbs-lucas.neocities.org/TFG_Gomez_Velayos_Lucas.pdf](https://kbs-lucas.neocities.org/TFG_Gomez_Velayos_Lucas.pdf)
+
+Solo de este repositorio:
+
+L. Gómez, “Trabajo-Fin-de-Grado,” *GitHub*, Accessed Sep. 09, 2024. [Online]. Available: [https://github.com/Pigamer37/Trabajo-Fin-de-Grado](https://github.com/Pigamer37/Trabajo-Fin-de-Grado)
+
 ## Índice de archivos y explicación de requerimientos
 
 ### Notas:
