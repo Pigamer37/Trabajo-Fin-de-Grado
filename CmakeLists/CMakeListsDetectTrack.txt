@@ -1,0 +1,15 @@
+project( DetectTrack )
+cmake_minimum_required(VERSION 3.25)
+
+set(INCLUDE_DIR ${CMAKE_SOURCE_DIR}/../RaspberryCam_Support/Include/)
+set(SOURCE_DIR ${CMAKE_SOURCE_DIR}/../RaspberryCam_Support/Source/)
+set(HEADERFILES ${INCLUDE_DIR}OCV_Funcs.hpp)
+set(SOURCEFILES ${SOURCE_DIR}OCV_Funcs.cpp)
+
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+
+include_directories( ${PROJECT_DIR} )
+
+add_executable( DetectTrack DetectTrack.cpp ${HEADERFILES} ${SOURCEFILES} )
+target_link_libraries( DetectTrack ${OpenCV_LIBS} )
