@@ -1,4 +1,4 @@
-# English: Parte de LGV, Computer Vision system (CV):
+# English: Computer Vision system (CV):
 ## IEEE citation:
 L. Gómez, "*NAVEGACIÓN BASADA EN SEGUIMIENTO DE LÍNEAS MEDIANTE VISIÓN ARTIFICIAL PARA EL ROBOT ROBOGAIT SPORT*", Madrid, Spain, Sep. 2024. Available: [https://oa.upm.es/84445/](https://oa.upm.es/84445/) or [https://kbs-lucas.neocities.org/TFG_Gomez_Velayos_Lucas.pdf](https://kbs-lucas.neocities.org/TFG_Gomez_Velayos_Lucas.pdf)
 
@@ -61,7 +61,7 @@ If we don't execute `--network host`, the apt-get tool will work. All necessary 
 `apt-get -y install \
     firefox \
 
-# Español: Parte de LGV, sistema de Visión Artificial (CV):
+# Español: Sistema de Visión Artificial (CV):
 ## Citación IEEE:
 L. Gómez, "*NAVEGACIÓN BASADA EN SEGUIMIENTO DE LÍNEAS MEDIANTE VISIÓN ARTIFICIAL PARA EL ROBOT ROBOGAIT SPORT*", Madrid, España, Sep. 2024. Available: [https://oa.upm.es/84445/](https://oa.upm.es/84445/) or [https://kbs-lucas.neocities.org/TFG_Gomez_Velayos_Lucas.pdf](https://kbs-lucas.neocities.org/TFG_Gomez_Velayos_Lucas.pdf)
 
